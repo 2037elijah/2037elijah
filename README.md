@@ -1,7 +1,36 @@
-## Hi there 👋
+<h1>Hi, I'm Elijah! <br/>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory using VMs </b>
+- Hello World!
+
+<h2> Certifications </h2>
+
+- VEGA : Scanning for Vulnerabilities
+- Wireshark: Capturing Packets
+- Cybersecurity: Tools and Cyberattacks
+- CySA: Roles, Processes and Operating System security
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Active Directory Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: 
 
 <!--
-**2037elijah/2037elijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
