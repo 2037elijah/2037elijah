@@ -1,5 +1,8 @@
 <h1>Hi, I'm Elijah! <br/>
 
+<h2>AI Projcts:</h2>
+- AI Resume and Strategy Generator
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory using VMs </b>
